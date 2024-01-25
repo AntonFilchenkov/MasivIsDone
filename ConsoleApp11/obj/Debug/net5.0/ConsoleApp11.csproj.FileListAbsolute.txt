@@ -1,0 +1,16 @@
+C:\Users\Anfil\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.csproj.AssemblyReference.cache
+C:\Users\Anfil\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anfil\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.AssemblyInfoInputs.cache
+C:\Users\Anfil\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.AssemblyInfo.cs
+C:\Users\Anfil\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\Users\Anfil\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net5.0\ConsoleApp11.exe
+C:\Users\Anfil\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net5.0\ConsoleApp11.deps.json
+C:\Users\Anfil\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net5.0\ConsoleApp11.runtimeconfig.json
+C:\Users\Anfil\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net5.0\ConsoleApp11.runtimeconfig.dev.json
+C:\Users\Anfil\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net5.0\ConsoleApp11.dll
+C:\Users\Anfil\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net5.0\ref\ConsoleApp11.dll
+C:\Users\Anfil\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net5.0\ConsoleApp11.pdb
+C:\Users\Anfil\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.dll
+C:\Users\Anfil\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ref\ConsoleApp11.dll
+C:\Users\Anfil\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.pdb
+C:\Users\Anfil\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.genruntimeconfig.cache
